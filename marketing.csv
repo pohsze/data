@@ -1,11 +1,16 @@
-Product,Region,Leads,Marketing Channel,Spending
-FBB,North,100,Facebook,10000
-FBB,South,450,Events,8000
-FBB,East,500,Instagram,6500
-FBB,West,408,Websites,7800
-FBB,West,210,Facebook,3000
-SIMO,North,300,Events,4900
-SIMO,South,100,Instagram,6000
-SIMO,East,290,Websites,8000
-SIMO,West,350,Facebook,12000
-SIMO,West,400,Events,800
+Branch,Product,Country,Channel,Cost
+Marina Bay,Handbag,Singapore,Facebook,10000
+Vivo,Handbag,Singapore,Facebook,8000
+KLCC,Handbag,Malaysia,Facebook,6000
+Gardens,Handbag,Malaysia,Facebook,6000
+Grand,Handbag,Indonesia,Facebook,10000
+Marina Bay,Shoes,Singapore,Websites,6900
+Vivo,Shoes,Singapore,Websites,2000
+KLCC,Shoes,Malaysia,Websites,3000
+Gardens,Shoes,Malaysia,Websites,5000
+Grand,Shoes,Indonesia,Websites,6000
+Marina Bay,Skincare,Singapore,Events,14000
+Vivo,Skincare,Singapore,Events,12000
+KLCC,Skincare,Malaysia,Events,8000
+Gardens,Skincare,Malaysia,Events,9000
+Grand,Skincare,Indonesia,Events,9000
