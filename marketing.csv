@@ -1,0 +1,11 @@
+Product,Region,Leads,Marketing Channel,Spending
+FBB,North,100,Facebook,10000
+FBB,South,450,Events,8000
+FBB,East,500,Instagram,6500
+FBB,West,408,Websites,7800
+FBB,West,210,Facebook,3000
+SIMO,North,300,Events,4900
+SIMO,South,100,Instagram,6000
+SIMO,East,290,Websites,8000
+SIMO,West,350,Facebook,12000
+SIMO,West,400,Events,800
